@@ -13,7 +13,14 @@
 
 ### 🎥 Video Demo
 
-https://github.com/MinhHieu13-cmc/Novator_AI/raw/main/demo/demo_video.mp4
+<div align="center">
+  <a href="https://github.com/MinhHieu13-cmc/Novator_AI/raw/main/demo/demo_video.mp4">
+    <img src="https://github.com/MinhHieu13-cmc/Novator_AI/raw/main/demo/thumbnail.png" width="800" alt="Video Demo Novator AI" style="border-radius: 12px; border: 2px solid #ddd;" />
+    <br/>
+    <b>▶️ Bấm vào hình trên để xem Video Demo (Full HD - 99MB) 🚀</b>
+  </a>
+</div>
+
 
 </div>
 
