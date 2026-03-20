@@ -1,0 +1,14 @@
+# Root gitignore
+node_modules/
+.env
+.env.local
+.env.*
+.venv/
+env/
+venv/
+__pycache__/
+.next/
+dist/
+build/
+*.pyc
+.DS_Store
