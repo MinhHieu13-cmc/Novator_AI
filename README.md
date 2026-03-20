@@ -12,12 +12,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash_Audio-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🎥 Video Demo
-To see the actual workflows in action, please open the video file in the `demo/` folder or change the video tag path below:
 
-<video width="800" controls>
-  <source src="./demo/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/MinhHieu13-cmc/Novator_AI/raw/main/demo/demo_video.mp4
 
 </div>
 
